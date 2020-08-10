@@ -1,0 +1,17 @@
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Vendas.Data\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Data.deps.json
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Vendas.Data\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Data.runtimeconfig.json
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Vendas.Data\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Data.runtimeconfig.dev.json
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Vendas.Data\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Data.dll
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Vendas.Data\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Data.pdb
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Vendas.Data\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Vendas.Data\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.dll
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Vendas.Data\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Vendas.Data\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.pdb
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Data.csprojAssemblyReference.cache
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Data.AssemblyInfoInputs.cache
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Data.AssemblyInfo.cs
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Data.csproj.CoreCompileInputs.cache
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Data.csproj.CopyComplete
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Data.dll
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Data.pdb
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Data.genruntimeconfig.cache

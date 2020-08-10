@@ -1,0 +1,8 @@
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Core\bin\Debug\netcoreapp3.1\NerdStore.Core.deps.json
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Core\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Core\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.AssemblyInfoInputs.cache
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.AssemblyInfo.cs
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.csproj.CoreCompileInputs.cache
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.dll
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.pdb

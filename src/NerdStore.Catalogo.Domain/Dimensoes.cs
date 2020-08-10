@@ -1,0 +1,26 @@
+﻿using NerdStore.Core.DomainObjects;
+
+namespace NerdStore.Catalogo.Domain
+{
+    public class Dimensoes
+    {
+        public Dimensoes(decimal altura, decimal largura, decimal profundidade)
+        {
+            Validacoes.ValidarSeMenorQue(altura, 1, $"O campo altura tem que ser menor ou igual a 0");
+            Validacoes.ValidarSeMenorQue(largura, 1, $"O campo largura tem que ser menor ou igual a 0");
+            Validacoes.ValidarSeMenorQue(profundidade, 1, $"O campo profundidade tem que ser menor ou igual a 0");
+
+            Altura = altura;
+            Largura = largura;
+            Profundidade = profundidade;
+        }
+
+        public decimal Altura { get; private set; }
+        public decimal Largura { get; private set; }
+        public decimal Profundidade { get; private set; }
+
+        public string DescricaoFormatada() => $"LxAxP: {Largura} x {Altura} x {Profundidade}";
+
+        public override string ToString() => DescricaoFormatada();
+    }
+}

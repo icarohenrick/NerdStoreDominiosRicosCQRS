@@ -1,0 +1,14 @@
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\NerdStore.Pagamentos.AntiCorruption.csprojAssemblyReference.cache
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\NerdStore.Pagamentos.AntiCorruption.AssemblyInfoInputs.cache
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\NerdStore.Pagamentos.AntiCorruption.AssemblyInfo.cs
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\NerdStore.Pagamentos.AntiCorruption.csproj.CoreCompileInputs.cache
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\NerdStore.Pagamentos.AntiCorruption.deps.json
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\NerdStore.Pagamentos.AntiCorruption.dll
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\NerdStore.Pagamentos.AntiCorruption.pdb
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\NerdStore.Pagamentos.Business.dll
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\NerdStore.Pagamentos.Business.pdb
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\NerdStore.Pagamentos.AntiCorruption.csproj.CopyComplete
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\NerdStore.Pagamentos.AntiCorruption.dll
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\NerdStore.Pagamentos.AntiCorruption.pdb

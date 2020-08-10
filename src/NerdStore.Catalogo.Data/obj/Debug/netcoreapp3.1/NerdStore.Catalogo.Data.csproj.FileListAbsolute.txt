@@ -1,0 +1,17 @@
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.deps.json
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.runtimeconfig.json
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.runtimeconfig.dev.json
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.dll
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.pdb
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.dll
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.pdb
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.csprojAssemblyReference.cache
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.AssemblyInfoInputs.cache
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.AssemblyInfo.cs
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.csproj.CoreCompileInputs.cache
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.csproj.CopyComplete
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.dll
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.pdb
+D:\Estudos\Desenvolvedor.IO\Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.genruntimeconfig.cache
